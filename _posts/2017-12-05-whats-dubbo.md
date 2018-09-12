@@ -3,8 +3,8 @@ layout: post
 title:  "Dubbo到底是什么"
 date:   2017-12-05 07:07:07
 categories: 分布式
-author: sqp
 tags: dubbo rpc
+author: sqp
 ---
 
 * content
