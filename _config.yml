@@ -14,12 +14,13 @@ url: "https://sqp.gitee.io/" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: sunqipeng
-facebook_username: sunqipeng
-github_username:  sunqipeng
+twitter_username: 
+facebook_username: 
+github_username:  sunqipeng-cn
+gitee_username: sqp
 email: sqp527@qq.com
 weibo_username: sqp527
-zhihu_username: sqp527
+zhihu_username:
 linkedIn_username:
 dribbble_username:
 
